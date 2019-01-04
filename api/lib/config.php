@@ -1,5 +1,5 @@
 <?php 
-define('HOST', '127.0.0.1');
+define('HOST', '51.75.92.73');
 define('PORT', 13895);
 define('DEBUG', true);
 
